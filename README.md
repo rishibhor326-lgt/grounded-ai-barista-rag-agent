@@ -23,7 +23,16 @@ This project addresses that by connecting the AI agent to a real coffee menu and
 ## Example
 
 **User:**  
-`Do you have a matcha frappuccino?`
+`Do you have a## Screenshots
+
+### Grounded Recommendation
+![Grounded Recommendation](screenshots/grounded-recommendation.png)
+
+### Dietary Recommendation
+![Dietary Recommendation](screenshots/dietary-recommendation.png)
+
+### Cloud Run Deployment
+![Cloud Run Deployment](screenshots/cloud-run-deployment.png) matcha frappuccino?`
 
 **Agent:**  
 Explains that the product is not available and recommends an existing menu item instead.
